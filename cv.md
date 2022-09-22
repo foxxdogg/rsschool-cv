@@ -10,10 +10,13 @@
 * **Discord nickname:** foxxdogg (@foxxdogg)  
 ****
 ### About me  
-I am a responsible person with strong time-management skills. Highly able to learn. In people, I appreciate professionalism and honesty.
-I have no experience in web front-end development. But I would like to gain some. I want to develop myself and learn something new because I lack new challenges and tasks.
-Unfortunately, I have no completed projects. At the moment, I am working on a CV project.
-My hobbies are :books:[^1], :runner: [^2], :moneybag: [^3].  
+I am a responsible person with strong time-management skills. Highly able to learn. In people, I appreciate professionalism and honesty.  
+
+I have no experience in web front-end development. But I would like to gain some. I want to develop myself and learn something new because I lack new challenges and tasks.  
+
+Unfortunately, I have no completed projects. At the moment, I am working on a CV project. 
+ 
+My hobbies are :books:[^1], :runner: [^2],:moneybag: [^3].  
 ****
 ### Skills 
 * HTML (Basics)  
@@ -49,9 +52,9 @@ CV project:
 	+ _German and English Translator_
 ****
 ### Languages  
-* German  
-* English  
-* Dutch  
+* German (C1-C2)  
+* English (B1-B2)  
+* Dutch (A1-A2)  
 
 
 
