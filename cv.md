@@ -6,7 +6,7 @@
 
 [](https://github.com/rolling-scopes-school/foxxdogg-JSFE2022Q3/blob/Markdown%26Git/Markdown%20%26%20Git/cv.md#aliaksei-kalymaha)
 
-**_Junior Front-End Developer_**  _(I hope)_
+**_Junior Front-End Developer_**
 
 ----------
 
@@ -31,7 +31,7 @@ I have no experience in web front-end development. But I would like to gain some
 
 Unfortunately, I have no completed projects. At the moment, I am working on a CV project.
 
-My hobbies are 📚[1](https://github.com/rolling-scopes-school/foxxdogg-JSFE2022Q3/blob/Markdown%26Git/Markdown%20%26%20Git/cv.md#user-content-fn-1-dab8b8ba75f9ac67890502c3ee5470b5), 🏃  [2](https://github.com/rolling-scopes-school/foxxdogg-JSFE2022Q3/blob/Markdown%26Git/Markdown%20%26%20Git/cv.md#user-content-fn-2-dab8b8ba75f9ac67890502c3ee5470b5),:moneybag:  [3](https://github.com/rolling-scopes-school/foxxdogg-JSFE2022Q3/blob/Markdown%26Git/Markdown%20%26%20Git/cv.md#user-content-fn-3-dab8b8ba75f9ac67890502c3ee5470b5).
+My hobbies are 📚[1](https://github.com/rolling-scopes-school/foxxdogg-JSFE2022Q3/blob/Markdown%26Git/Markdown%20%26%20Git/cv.md#user-content-fn-1-dab8b8ba75f9ac67890502c3ee5470b5), 🏃  [2](https://github.com/rolling-scopes-school/foxxdogg-JSFE2022Q3/blob/Markdown%26Git/Markdown%20%26%20Git/cv.md#user-content-fn-2-dab8b8ba75f9ac67890502c3ee5470b5), :moneybag:  [3](https://github.com/rolling-scopes-school/foxxdogg-JSFE2022Q3/blob/Markdown%26Git/Markdown%20%26%20Git/cv.md#user-content-fn-3-dab8b8ba75f9ac67890502c3ee5470b5).
 
 ----------
 
