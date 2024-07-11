@@ -7,3 +7,9 @@ body {
     margin-top: 20px;
     background-color: white;
 }
+
+.heading {
+    font-family: Lora;
+}
+
+.text { font-family: Roboto;}
